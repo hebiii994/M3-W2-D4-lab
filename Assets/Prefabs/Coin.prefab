@@ -100,6 +100,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _coinNumber: 0
   _collider: {fileID: 0}
+  _playerController: {fileID: 0}
 --- !u!58 &667957667336244314
 CircleCollider2D:
   m_ObjectHideFlags: 0
